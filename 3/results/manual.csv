@@ -1,0 +1,5 @@
+activation;precision;recall
+step;1.0;1.0
+logistic10;1.0;0.978
+logistic1;0.0;0.0
+relu;0.25;1.0
